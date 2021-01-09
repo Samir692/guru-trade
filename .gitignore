@@ -1,0 +1,22 @@
+/target/
+/.mvn/
+
+application-local*.properties
+rebel.xml
+
+### STS ###
+.apt_generated
+.factorypath
+.settings
+.springBeans
+.sts4-cache
+.classpath
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+mvnw
+mvnw.cmd
